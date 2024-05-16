@@ -1,6 +1,6 @@
 # Instructions
 
-Profile Creator! Use your JavaScript knowledge to make a this profile preview screen work.
+Profile Creator! Use your JavaScript knowledge to make this profile preview screen work.
 
 ### Challenge One
 
