@@ -1,0 +1,25 @@
+.main {
+  display: flex;
+}
+
+.column {
+  width: 50%;
+
+}
+
+body {
+  font-family: helvetica;
+}
+
+.preview {
+  padding: 20px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  margin: 20px 20px 20px 0;
+}
+img{
+  width: 75px;
+  margin: 10px;
+  background: lightgrey;
+  border-radius: 50%;
+}
